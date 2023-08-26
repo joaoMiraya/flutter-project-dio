@@ -1,6 +1,6 @@
-# dioproject
+# DIOPROJECT
 
-A new Flutter project.
+Meu primeiro projeto com Flutter
 
 ## Getting Started
 
